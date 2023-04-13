@@ -1,5 +1,7 @@
 # À la découverte de SAS
 
+![SAS](include/SAS_logo.png)
+
 **Objectifs du projet :**
  1. Découverte de la programmation SAS via SAS Studio
  2. Mise en oeuvre d'un cas d'utilisation
