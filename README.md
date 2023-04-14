@@ -82,3 +82,7 @@ SAS s'est également engagé dans des partenariats avec des institutions éducat
  ### Pour conclure...
 
 En tenant compte de l'adaptation et de l'innovation de SAS, de l'intégration des langages modernes, de la courbe d'apprentissage et des partenariats stratégiques, il est clair que SAS reste une entreprise pertinente et compétitive dans le domaine de l'analyse de données. Bien que certains puissent considérer SAS comme une technologie du passé, l'entreprise a su s'adapter et évoluer pour rester à la pointe du marché. SAS continue d'investir dans l'innovation, l'intégration et la formation pour offrir des solutions avancées et flexibles aux utilisateurs. En somme, il serait imprudent de sous-estimer la pertinence de SAS dans le paysage actuel de l'analyse de données.
+
+## SAS Studio : cas d'utilisation, de l'import de données brutes à l'analyse
+
+<a href="https://www.lipsum.com/">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<a>
