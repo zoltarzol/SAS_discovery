@@ -1,4 +1,4 @@
-# Partons à la découverte de SAS !
+# Partons à la découverte de SAS
 
 ![SAS](include/SAS_logo.png)
 
@@ -25,7 +25,15 @@ SAS Studio offre des fonctionnalités de pointe pour la programmation SAS, y com
 
 SAS Studio est souvent utilisé dans les environnements d'entreprise, d'éducation et de recherche où l'accès à SAS est essentiel pour mener des analyses de données avancées. C'est une solution pratique et économique pour les utilisateurs qui ne peuvent pas ou ne veulent pas installer SAS sur leur propre ordinateur. Mais la courbe d'apprentissage de SAS (particulièrement de son language) est souvent considérée comme plus abrupte que celle de langages de programmation modernes tels que Python et R.
 
-## SAS est-il mort ? Un point de vue...
+## Découverte de la programmation SAS via SAS Studio
+
+<a href="https://www.lipsum.com/">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</a>
+
+## SAS Studio : cas d'utilisation, de l'import de données brutes à l'analyse
+
+<a href="https://www.lipsum.com/">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</a>
+
+## Annexe : SAS est-il mort ? Un point de vue...
 
 Il s'agit ici d'évaluer la pertinence de SAS dans le paysage actuel de l'analyse de données, et plus récemment de la Data Science. L'exposé ci-dessous est la synthèse de mon expérience des outils utilisés en entreprise et d'une veille effectuée sur l'offre de service de SAS en 2023.
 
@@ -82,7 +90,3 @@ SAS s'est également engagé dans des partenariats avec des institutions éducat
  ### Pour conclure...
 
 En tenant compte de l'adaptation et de l'innovation de SAS, de l'intégration des langages modernes, de la courbe d'apprentissage et des partenariats stratégiques, il est clair que SAS reste une entreprise pertinente et compétitive dans le domaine de l'analyse de données. Bien que certains puissent considérer SAS comme une technologie du passé, l'entreprise a su s'adapter et évoluer pour rester à la pointe du marché. SAS continue d'investir dans l'innovation, l'intégration et la formation pour offrir des solutions avancées et flexibles aux utilisateurs. En somme, il serait imprudent de sous-estimer la pertinence de SAS dans le paysage actuel de l'analyse de données.
-
-## SAS Studio : cas d'utilisation, de l'import de données brutes à l'analyse
-
-<a href="https://www.lipsum.com/">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<a>
